@@ -1,0 +1,20 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.28/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Templates/CPackConfig.cmake.in
+D:/Github/PictureProjections/build/CMakeFiles/cmake.verify_globs
+D:/Github/PictureProjections/raylib/cmake/CompileDefinitions.cmake
+D:/Github/PictureProjections/raylib/cmake/GlfwImport.cmake
+D:/Github/PictureProjections/raylib/cmake/InstallConfigurations.cmake
+D:/Github/PictureProjections/raylib/cmake/JoinPaths.cmake
+D:/Github/PictureProjections/raylib/cmake/LibraryConfigurations.cmake
+D:/Github/PictureProjections/raylib/cmake/LibraryPathToLinkerFlags.cmake
+D:/Github/PictureProjections/raylib/cmake/PackConfigurations.cmake
+D:/Github/PictureProjections/raylib/cmake/PopulateConfigVariablesLocally.cmake
+D:/Github/PictureProjections/raylib/cmake/raylib-config-version.cmake
+D:/Github/PictureProjections/raylib/raylib.pc.in
+D:/Github/PictureProjections/raylib/src/CMakeLists.txt
